@@ -1,0 +1,6 @@
+#+TITLE: TODO
+
+- [ ] Add event to the terminal
+- [ ] Add an sh execution
+- [ ] Finish the user registraton
+
